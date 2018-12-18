@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(70, 70, 230, 0.6);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5vw;
+}
+
+textarea{
+    position: absolute;
+    left: 14vw;
+    width: 70vw;
+    height: 70vh;
+    border: 5px solid black;
+}
+
+input[type=text]{
+    position: absolute;
+    left: 14vw;
+    bottom: 12vh;
+    width: 70vw;
+    border: 5px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
